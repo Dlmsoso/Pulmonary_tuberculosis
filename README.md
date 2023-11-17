@@ -1,5 +1,7 @@
 # Pulmonary_tuberculosis
 
+Auteurs : Amina Boualem et Solène Delourme
+
 Ce travail consiste en une étude de recherche sur la tuberculose pulmonaire en France, réalisée dans le cadre d'un projet d'études mené en collaboration avec l'Université de la Sorbonne lors d'un master en informatique biomédicale.
 
 Les sources des données utilisées incluent :
